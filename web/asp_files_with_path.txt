@@ -1189,7 +1189,6 @@ _layouts/excelserversafedataproviders.aspx
 news/_layouts/viewlsts.aspx
 CMSModules/System/Debug/System_DebugFiles.aspx
 _layouts/1033/versions.aspx
-../../../../../../../../../../../../localstart.asp
 _layouts/3082/spsviewlsts.aspx
 CMSModules/ContactManagement/FormControls/ContactSelectorDialog.aspx
 product/list.aspx
@@ -2336,7 +2335,6 @@ CMSModules/ContactManagement/Pages/Tools/Configuration/Frameset.aspx
 CMSModules/Friends/Administration/Users/User_Edit_Friends_Rejected.aspx
 HFM/Journals/JournalsNew.asp
 CMSModules/Newsletters/Tools/NewsletterModule_Frameset.aspx
-../config.asp
 CMSModules/ContactManagement/Pages/Tools/Account/Tab_General.aspx
 HFM/OpenApp/DisplayServers.asp
 HFM/POV/povstartpage.asp

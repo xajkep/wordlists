@@ -566,7 +566,6 @@ app/code/core/Mage/Paypal/Block/Express/Review/Details.php
 app/code/core/Mage/Adminhtml/Model/System/Config/Source/Country.php
 modules/master/footer.php
 downloader/lib/Mage/Connect/Package/VO.php
-../config.php
 wp-content/themes/classic/functions.php
 app/code/core/Mage/Review/Model/Resource/Review/Status.php
 templates/protostar/html/pagination.php
@@ -2763,7 +2762,6 @@ html/modules/Web_Links/admin/language/lang-thai.php
 installation/template/body.php
 lib/Mage/Connect/Structures/Graph.php
 modules/Forums/attachment.php
-../config.inc.php
 libraries/joomla/string/string.php
 lib/Zend/Service/DeveloperGarden/Request/ConferenceCall/GetConferenceTemplateListRequest.php
 lib/Zend/Tool/Project/Context/Zf/TestApplicationControllerDirectory.php
@@ -8864,7 +8862,6 @@ administrator/components/com_joomlaupdate/restore.php
 app/code/core/Mage/Sitemap/Model/Sitemap.php
 src/CodeExplorerBundle/DependencyInjection/CodeExplorerExtension.php
 app/code/core/Mage/Sales/Model/Resource/Report/Shipping/Collection/Order.php
-../users.db.php
 app/code/core/Mage/Catalog/sql/catalog_setup/mysql4-upgrade-1.4.0.0.19-1.4.0.0.20.php
 vendor/composer/autoload_real.php
 wp-includes/ID3/module.audio-video.flv.php
@@ -8885,7 +8882,6 @@ app/code/core/Mage/Checkout/controllers/IndexController.php
 app/code/core/Mage/Adminhtml/Block/Catalog/Product/Composite/Fieldset/Configurable.php
 app/code/core/Mage/Catalog/sql/catalog_setup/mysql4-upgrade-0.7.55-0.7.56.php
 app/code/core/Mage/Review/Block/Customer/View.php
-../install.php
 html/modules/Feedback/language/lang-catala.php
 app/code/core/Mage/Rule/Model/Environment.php
 administrator/components/com_admin/views/sysinfo/view.html.php
@@ -9002,7 +8998,6 @@ app/code/core/Mage/Adminhtml/Model/System/Config/Backend/Currency/Allow.php
 app/code/core/Mage/Core/Model/Website.php
 app/code/core/Mage/XmlConnect/Block/Customer/Order/Item/Renderer/Bundle.php
 catalog/includes/include_once.php
-../_config.php
 libraries/joomla/html/select.php
 extensions/debugdevkit/lang/lang.nl.php
 app/code/core/Mage/Customer/Model/Attribute/Data/Date.php
