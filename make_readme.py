@@ -37,6 +37,8 @@ print """
  * [FUZZING - FuzzDB](https://github.com/fuzzdb-project/fuzzdb/)
  * [DOMAIN - Easylist](https://github.com/easylist/easylist)
  * [DOMAIN - Fanboy/Adblock](https://github.com/ryanbr/fanboy-adblock)
+ * [DICTIONNARY - English Words](https://github.com/dwyl/english-words)
+ * [DICTIONNARY - Probable Wordlists](https://github.com/berzerk0/Probable-Wordlists)
 
 ## External Ressources
 
