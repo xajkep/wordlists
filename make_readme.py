@@ -19,8 +19,7 @@ for dirname, dirnames, filenames in os.walk('.'):
             lang = filename.split('_')[0].upper()
             details = ' '.join(filename.split('.')[0].split('_')[1:])
             number_of_line = line_count(os.path.join(dirname, filename))
-            out.append(" * [**%5.i**] [%s *%s*](%s/%s)" % (number_of_line, lang, details, dirname, filename))
+            out.append(" * [%s *%s*](%s/%s) (**%i** words)" % (lang, details, dirname, filename, number_of_line))
 
 out.sort()
-out.reverse()
 print '\n'.join(out)
