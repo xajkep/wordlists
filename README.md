@@ -7,9 +7,11 @@
 
 ## Dictionaries
 
+ * [DUTCH *a-z - no special chars*](./dictionaries/dutch_a-z_-_no_special_chars.txt) (**333475** words)
  * [ENGLISH *a-z - no special chars*](./dictionaries/english_a-z_-_no_special_chars.txt) (**241679** words)
  * [FRENCH *a-z - no special chars*](./dictionaries/french_a-z_-_no_special_chars.txt) (**137604** words)
  * [FRENCH *only with special chars*](./dictionaries/french_only_with_special_chars.txt) (**2115** words)
+ * [ITALIAN *a-z - no special chars*](./dictionaries/italian_a-z_-_no_special_chars.txt) (**108661** words)
 
 ## Payloads
 
