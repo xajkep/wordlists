@@ -1,6 +1,14 @@
 # Wordlists
 
 
+## Dictionaries
+
+ * [ENGLISH *a-z, no special chars*](./dictionaries/english_a-z,_no_special_chars.txt) (**241679** words)
+
+## Payloads
+
+ * [SQLI *blind time-based*](./payloads/sqli_blind_time-based.txt) (**283** words)
+
 ## Discovery
 
  * [ASP *files only*](./discovery/asp_files_only.txt) (**9636** words)
@@ -17,14 +25,6 @@
  * [PARAMETERS *mix*](./discovery/parameters_mix.txt) (**1799** words)
  * [PHP *files only*](./discovery/php_files_only.txt) (**37310** words)
  * [PHP *files with path*](./discovery/php_files_with_path.txt) (**13691** words)
-
-## Payloads
-
- * [SQLI *blind time-based*](./payloads/sqli_blind_time-based.txt) (**283** words)
-
-## Dictionnaries
-
- * [ENGLISH *a-z*](./dictionnaries/english_a-z.txt) (**241679** words)
 
 
 ## Others Repositories
