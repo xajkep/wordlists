@@ -1,6 +1,10 @@
 # Wordlists
 
 
+## Patterns
+
+ * [REGEX *web errors*](./patterns/regex_web_errors.csv) (**28** words)
+
 ## Dictionaries
 
  * [ENGLISH *a-z, no special chars*](./dictionaries/english_a-z,_no_special_chars.txt) (**241679** words)
