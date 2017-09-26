@@ -32,18 +32,18 @@ for k, v in lists.iteritems():
 
 print """
 ## Large Password Lists (Torrent)
- * [CrackStation's Password Cracking Dictionary [ONLY "real human" passwords] - 247MB](https://crackstation.net/downloads/crackstation-human-only.txt.gz.torrent)
- * [CrackStation's Password Cracking Dictionary [FULL] - 4.2GB](https://crackstation.net/downloads/crackstation.txt.gz.torrent)
+ * [CrackStation's Password Cracking Dictionary [ONLY "real human" passwords] - 247MB compressed](https://crackstation.net/downloads/crackstation-human-only.txt.gz.torrent)
+ * [CrackStation's Password Cracking Dictionary [FULL] - 4.2GB compressed](https://crackstation.net/downloads/crackstation.txt.gz.torrent)
 
 ## Large Password Lists (HTTP Direct Download)
 
- * [10-million-combos.zip - 85MB](http://download.g0tmi1k.com/wordlists/large/10-million-combos.zip)
- * [crackstation-human-only.txt.gz - 246MB](http://download.g0tmi1k.com/wordlists/large/crackstation-human-only.txt.gz)
- * [b0n3z_dictionary-SPLIT-BY-LENGTH-34.6GB.7z - 3GB](http://download.g0tmi1k.com/wordlists/large/b0n3z_dictionary-SPLIT-BY-LENGTH-34.6GB.7z)
- * [crackstation.txt.gz - 4GB](http://download.g0tmi1k.com/wordlists/large/crackstation.txt.gz)
- * [WPA-PSK WORDLIST 3 Final (13 GB).rar - 4GB](http://download.g0tmi1k.com/wordlists/large/WPA-PSK%20WORDLIST%203%20Final%20%2813%20GB%29.rar)
- * [36.4GB-18_in_1.lst.7z - 5GB](http://download.g0tmi1k.com/wordlists/large/36.4GB-18_in_1.lst.7z)
- * [b0n3z-wordlist-sorted_REPACK-69.3GB.7z - 9GB](http://download.g0tmi1k.com/wordlists/large/b0n3z-wordlist-sorted_REPACK-69.3GB.7z)
+ * [10-million-combos.zip - 85MB compressed](http://download.g0tmi1k.com/wordlists/large/10-million-combos.zip)
+ * [crackstation-human-only.txt.gz - 246MB compressed](http://download.g0tmi1k.com/wordlists/large/crackstation-human-only.txt.gz)
+ * [b0n3z_dictionary-SPLIT-BY-LENGTH-34.6GB.7z - 3GB compressed](http://download.g0tmi1k.com/wordlists/large/b0n3z_dictionary-SPLIT-BY-LENGTH-34.6GB.7z)
+ * [crackstation.txt.gz - 4GB compressed](http://download.g0tmi1k.com/wordlists/large/crackstation.txt.gz)
+ * [WPA-PSK WORDLIST 3 Final (13 GB).rar - 4GB compressed](http://download.g0tmi1k.com/wordlists/large/WPA-PSK%20WORDLIST%203%20Final%20%2813%20GB%29.rar)
+ * [36.4GB-18_in_1.lst.7z - 5GB compressed](http://download.g0tmi1k.com/wordlists/large/36.4GB-18_in_1.lst.7z)
+ * [b0n3z-wordlist-sorted_REPACK-69.3GB.7z - 9GB compressed](http://download.g0tmi1k.com/wordlists/large/b0n3z-wordlist-sorted_REPACK-69.3GB.7z)
  
  ## Others Repositories
 
@@ -67,7 +67,5 @@ print """
  * [WORDLIST - Hashcrack](http://hashcrack.blogspot.ch/p/wordlist-downloads_29.html)
  * [WORDLIST - md5this](http://www.md5this.com/tools/wordlists.html)
  * [WORDLIST - Packet Storm](https://packetstormsecurity.com/Crackers/wordlists/)
- 
-*Note: Displayed size are compressed size*
 
 """
