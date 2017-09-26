@@ -1,6 +1,7 @@
 import os
 
 print "# Wordlists\n\n"
+out = list()
 
 for dirname, dirnames, filenames in os.walk('.'):
     if '.git' in dirnames:
@@ -13,6 +14,7 @@ for dirname, dirnames, filenames in os.walk('.'):
         if dirname != '.':
             lang = filename.split('_')[0].upper()
             details = ' '.join(filename.split('.')[0].split('_')[1:])
-            print " * [%s *%s*](%s/%s)" % (lang, details, dirname, filename)
+            out.append(" * [%s *%s*](%s/%s)" % (lang, details, dirname, filename))
 
-    
+out.sort()
+print '\n'.join(out)
