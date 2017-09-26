@@ -1,6 +1,10 @@
 # Wordlists
 
 
+## Payloads
+
+ * [SQLI *blind time-based*](./payloads/sqli_blind_time-based.txt) (**283** words)
+
 ## Discovery
 
  * [ASP *files only*](./discovery/asp_files_only.txt) (**9636** words)
@@ -19,14 +23,14 @@
  * [PHP *files with path*](./discovery/php_files_with_path.txt) (**13691** words)
 
 
-# Others Repositories
+## Others Repositories
 
  * [FUZZING - SecLists](https://github.com/danielmiessler/SecLists)
  * [FUZZING - FuzzDB](https://github.com/fuzzdb-project/fuzzdb/)
  * [DOMAIN - Easylist](https://github.com/easylist/easylist)
  * [DOMAIN - Fanboy/Adblock](https://github.com/ryanbr/fanboy-adblock)
 
-# External Ressources
+## External Ressources
 
  * [DNS - Cisco Umbrella Top 1 million](http://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip)
  * [DNS - Cisco Umbrella Top TLDs](http://s3-us-west-1.amazonaws.com/umbrella-static/top-1m-TLD.csv.zip)

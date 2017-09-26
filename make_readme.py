@@ -5,35 +5,40 @@ def line_count(filename):
         return sum(1 for _ in f)
 
 print "# Wordlists\n\n"
-out = list()
+lists = {}
 
 for dirname, dirnames, filenames in os.walk('.'):
     if '.git' in dirnames:
         dirnames.remove('.git')
     
+    
+
     for subdirname in dirnames:
-        print "## %s\n" % subdirname.title()
+        lists[subdirname] = []
+        
     
     for filename in filenames:
         if dirname != '.':
             lang = filename.split('_')[0].upper()
             details = ' '.join(filename.split('.')[0].split('_')[1:])
             number_of_line = line_count(os.path.join(dirname, filename))
-            out.append(" * [%s *%s*](%s/%s) (**%i** words)" % (lang, details, dirname, filename, number_of_line))
+            lists[dirname[2:]].append(" * [%s *%s*](%s/%s) (**%i** words)" % (lang, details, dirname, filename, number_of_line))
 
-out.sort()
-print '\n'.join(out)
+for k, v in lists.iteritems():
+    print "## %s\n" % k.title()
+    v.sort()
+    print '\n'.join(v)
+    print ""
 
 print """
-
-# Others Repositories
+## Others Repositories
 
  * [FUZZING - SecLists](https://github.com/danielmiessler/SecLists)
  * [FUZZING - FuzzDB](https://github.com/fuzzdb-project/fuzzdb/)
  * [DOMAIN - Easylist](https://github.com/easylist/easylist)
  * [DOMAIN - Fanboy/Adblock](https://github.com/ryanbr/fanboy-adblock)
 
-# External Ressources
+## External Ressources
 
  * [DNS - Cisco Umbrella Top 1 million](http://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip)
  * [DNS - Cisco Umbrella Top TLDs](http://s3-us-west-1.amazonaws.com/umbrella-static/top-1m-TLD.csv.zip)
