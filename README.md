@@ -30,7 +30,7 @@
  * [PARAMETERS *actions*](./discovery/parameters_actions.txt) (**28** words)
  * [PARAMETERS *after*](./discovery/parameters_after.txt) (**9** words)
  * [PARAMETERS *before*](./discovery/parameters_before.txt) (**7** words)
- * [PARAMETERS *mix*](./discovery/parameters_mix.txt) (**1799** words)
+ * [PARAMETERS *mix*](./discovery/parameters_mix.txt) (**3672** words)
  * [PHP *files only*](./discovery/php_files_only.txt) (**37310** words)
  * [PHP *files with path*](./discovery/php_files_with_path.txt) (**13691** words)
 
