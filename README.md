@@ -5,6 +5,14 @@
 
  * [REGEX *web errors*](./patterns/regex_web_errors.csv) (**28** words)
 
+## Misc
+
+ * [JS *event handlers*](./misc/js_event_handlers.txt) (**216** words)
+
+## Payloads
+
+ * [SQLI *blind time-based*](./payloads/sqli_blind_time-based.txt) (**283** words)
+
 ## Dictionaries
 
  * [DUTCH *a-z - no special chars*](./dictionaries/dutch_a-z_-_no_special_chars.txt) (**333475** words)
@@ -12,10 +20,6 @@
  * [FRENCH *a-z - no special chars*](./dictionaries/french_a-z_-_no_special_chars.txt) (**137604** words)
  * [FRENCH *only with special chars*](./dictionaries/french_only_with_special_chars.txt) (**2115** words)
  * [ITALIAN *a-z - no special chars*](./dictionaries/italian_a-z_-_no_special_chars.txt) (**108661** words)
-
-## Payloads
-
- * [SQLI *blind time-based*](./payloads/sqli_blind_time-based.txt) (**283** words)
 
 ## Discovery
 
@@ -30,7 +34,7 @@
  * [LOG *files only*](./discovery/log_files_only.txt) (**140** words)
  * [PARAMETERS *actions*](./discovery/parameters_actions.txt) (**28** words)
  * [PARAMETERS *after*](./discovery/parameters_after.txt) (**9** words)
- * [PARAMETERS *before*](./discovery/parameters_before.txt) (**7** words)
+ * [PARAMETERS *before*](./discovery/parameters_before.txt) (**8** words)
  * [PARAMETERS *mix*](./discovery/parameters_mix.txt) (**3672** words)
  * [PHP *files only*](./discovery/php_files_only.txt) (**37310** words)
  * [PHP *files with path*](./discovery/php_files_with_path.txt) (**13691** words)
