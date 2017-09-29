@@ -7,6 +7,7 @@
 
 ## Misc
 
+ * [ANDROID *all permissions*](./misc/android_all_permissions.txt) (**324** words)
  * [JS *event handlers*](./misc/js_event_handlers.txt) (**216** words)
 
 ## Payloads
