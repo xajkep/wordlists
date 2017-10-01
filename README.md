@@ -31,7 +31,6 @@
  * [PORTUGUESE *a-z - no special chars*](./dictionaries/portuguese_a-z_-_no_special_chars.txt) (**315477** words)
  * [PORTUGUESE *only with special chars*](./dictionaries/portuguese_only_with_special_chars.txt) (**114360** words)
  * [SPANISH *a-z - no special chars*](./dictionaries/spanish_a-z_-_no_special_chars.txt) (**86016** words)
- * [SPANISH *only with special chars*](./dictionaries/spanish_only_with_special_chars.txt) (**0** words)
  * [SWEDISH *a-z - no special chars*](./dictionaries/swedish_a-z_-_no_special_chars.txt) (**79763** words)
  * [SWEDISH *only with special chars*](./dictionaries/swedish_only_with_special_chars.txt) (**41663** words)
 
