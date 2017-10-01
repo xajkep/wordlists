@@ -9,7 +9,7 @@
 
  * [ANDROID *all permissions*](./misc/android_all_permissions.txt) (**324** words)
  * [JS *event handlers*](./misc/js_event_handlers.txt) (**217** words)
- * [USER-AGENTS.TXT **](./misc/user-agents.txt) (**4212** words)
+ * [USER-AGENTS.TXT **](./misc/user-agents.txt) (**4213** words)
 
 ## Payloads
 
@@ -19,6 +19,7 @@
 
  * [BRAZILIAN *a-z - no special chars*](./dictionaries/brazilian_a-z_-_no_special_chars.txt) (**204448** words)
  * [BRAZILIAN *only with special chars*](./dictionaries/brazilian_only_with_special_chars.txt) (**71054** words)
+ * [COUNTRY *with cc*](./dictionaries/country_with_cc.txt) (**254** words)
  * [DANISH *a-z - no special chars*](./dictionaries/danish_a-z_-_no_special_chars.txt) (**311038** words)
  * [DANISH *only with special chars*](./dictionaries/danish_only_with_special_chars.txt) (**1975** words)
  * [DUTCH *a-z - no special chars*](./dictionaries/dutch_a-z_-_no_special_chars.txt) (**333475** words)
