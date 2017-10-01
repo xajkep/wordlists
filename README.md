@@ -17,11 +17,23 @@
 
 ## Dictionaries
 
+ * [BRAZILIAN *a-z - no special chars*](./dictionaries/brazilian_a-z_-_no_special_chars.txt) (**204448** words)
+ * [BRAZILIAN *only with special chars*](./dictionaries/brazilian_only_with_special_chars.txt) (**71054** words)
+ * [DANISH *a-z - no special chars*](./dictionaries/danish_a-z_-_no_special_chars.txt) (**311038** words)
+ * [DANISH *only with special chars*](./dictionaries/danish_only_with_special_chars.txt) (**1975** words)
  * [DUTCH *a-z - no special chars*](./dictionaries/dutch_a-z_-_no_special_chars.txt) (**333475** words)
  * [ENGLISH *a-z - no special chars*](./dictionaries/english_a-z_-_no_special_chars.txt) (**241679** words)
  * [FRENCH *a-z - no special chars*](./dictionaries/french_a-z_-_no_special_chars.txt) (**137604** words)
  * [FRENCH *only with special chars*](./dictionaries/french_only_with_special_chars.txt) (**2115** words)
+ * [IRISH *a-z - no special chars*](./dictionaries/irish_a-z_-_no_special_chars.txt) (**5224** words)
+ * [IRISH *only with special chars*](./dictionaries/irish_only_with_special_chars.txt) (**11146** words)
  * [ITALIAN *a-z - no special chars*](./dictionaries/italian_a-z_-_no_special_chars.txt) (**108661** words)
+ * [PORTUGUESE *a-z - no special chars*](./dictionaries/portuguese_a-z_-_no_special_chars.txt) (**315477** words)
+ * [PORTUGUESE *only with special chars*](./dictionaries/portuguese_only_with_special_chars.txt) (**114360** words)
+ * [SPANISH *a-z - no special chars*](./dictionaries/spanish_a-z_-_no_special_chars.txt) (**86016** words)
+ * [SPANISH *only with special chars*](./dictionaries/spanish_only_with_special_chars.txt) (**0** words)
+ * [SWEDISH *a-z - no special chars*](./dictionaries/swedish_a-z_-_no_special_chars.txt) (**79763** words)
+ * [SWEDISH *only with special chars*](./dictionaries/swedish_only_with_special_chars.txt) (**41663** words)
 
 ## Discovery
 
