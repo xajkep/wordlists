@@ -36,20 +36,20 @@
 
 ## Discovery
 
- * [ASP *files only*](./discovery/asp_files_only.txt) (**9636** words)
+ * [ASP *files only*](./discovery/asp_files_only.txt) (**20481** words)
  * [ASP *files with path*](./discovery/asp_files_with_path.txt) (**3992** words)
  * [BACKUP *files only*](./discovery/backup_files_only.txt) (**640** words)
  * [BACKUP *files with path*](./discovery/backup_files_with_path.txt) (**1286** words)
  * [DIRECTORY *only one*](./discovery/directory_only_one.small.txt) (**1993** words)
  * [FUNCTIONS *mix*](./discovery/functions_mix.txt) (**1555** words)
- * [JSP *files only*](./discovery/jsp_files_only.txt) (**745** words)
+ * [JSP *files only*](./discovery/jsp_files_only.txt) (**2158** words)
  * [JSP *files with path*](./discovery/jsp_files_with_path.txt) (**167** words)
  * [LOG *files only*](./discovery/log_files_only.txt) (**140** words)
  * [PARAMETERS *actions*](./discovery/parameters_actions.txt) (**28** words)
  * [PARAMETERS *after*](./discovery/parameters_after.txt) (**9** words)
  * [PARAMETERS *before*](./discovery/parameters_before.txt) (**8** words)
  * [PARAMETERS *mix*](./discovery/parameters_mix.txt) (**20376** words)
- * [PHP *files only*](./discovery/php_files_only.txt) (**41365** words)
+ * [PHP *files only*](./discovery/php_files_only.txt) (**43795** words)
  * [PHP *files with path*](./discovery/php_files_with_path.txt) (**13691** words)
 
 
