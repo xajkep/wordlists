@@ -10,7 +10,7 @@
  * [ANDROID *all permissions*](./misc/android_all_permissions.txt) (**324** words)
  * [EMAIL *top 100 providers*](./misc/email_top_100_providers.txt) (**100** words)
  * [HTML *all elements*](./misc/html_all_elements.txt) (**134** words)
- * [JS *event handlers*](./misc/js_event_handlers.txt) (**217** words)
+ * [JS *event handlers*](./misc/js_event_handlers.txt) (**109** words)
  * [USER-AGENTS.TXT **](./misc/user-agents.txt) (**4213** words)
 
 ## Payloads
