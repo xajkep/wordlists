@@ -54,6 +54,7 @@
  * [PARAMETERS *mix*](./discovery/parameters_mix.txt) (**20376** words)
  * [PHP *files only*](./discovery/php_files_only.txt) (**43795** words)
  * [PHP *files with path*](./discovery/php_files_with_path.txt) (**13691** words)
+ * [USER *field names*](./discovery/user_field_names.txt) (**228** words)
 
 
 ## Large Password Lists (Torrent)
