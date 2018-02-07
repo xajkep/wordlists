@@ -48,7 +48,7 @@
  * [FUNCTIONS *mix*](./discovery/functions_mix.txt) (**1555** words)
  * [JSP *files only*](./discovery/jsp_files_only.txt) (**2158** words)
  * [JSP *files with path*](./discovery/jsp_files_with_path.txt) (**167** words)
- * [LOG *files only*](./discovery/log_files_only.txt) (**140** words)
+ * [LOG *files only*](./discovery/log_files_only.txt) (**142** words)
  * [PARAMETERS *actions*](./discovery/parameters_actions.txt) (**28** words)
  * [PARAMETERS *after*](./discovery/parameters_after.txt) (**9** words)
  * [PARAMETERS *before*](./discovery/parameters_before.txt) (**8** words)
