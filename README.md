@@ -7,6 +7,7 @@
 
 ## Misc
 
+ * [ALL *html elements*](./misc/all_html_elements.txt) (**134** words)
  * [ANDROID *all permissions*](./misc/android_all_permissions.txt) (**324** words)
  * [EMAIL *top 100 providers*](./misc/email_top_100_providers.txt) (**100** words)
  * [JS *event handlers*](./misc/js_event_handlers.txt) (**217** words)
