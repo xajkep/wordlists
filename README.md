@@ -25,7 +25,7 @@
  * [DANISH *a-z - no special chars*](./dictionaries/danish_a-z_-_no_special_chars.txt) (**232249** words)
  * [DANISH *only with special chars*](./dictionaries/danish_only_with_special_chars.txt) (**1975** words)
  * [DUTCH *a-z - no special chars*](./dictionaries/dutch_a-z_-_no_special_chars.txt) (**328986** words)
- * [ENGLISH *a-z - no special chars*](./dictionaries/english_a-z_-_no_special_chars.txt) (**241679** words)
+ * [ENGLISH *a-z - no special chars*](./dictionaries/english_a-z_-_no_special_chars.txt) (**241561** words)
  * [FRENCH *a-z - no special chars*](./dictionaries/french_a-z_-_no_special_chars.txt) (**85915** words)
  * [FRENCH *only with special chars*](./dictionaries/french_only_with_special_chars.txt) (**2115** words)
  * [GERMAN *a-z - no special chars*](./dictionaries/german_a-z_-_no_special_chars.txt) (**278427** words)
