@@ -27,6 +27,7 @@
  * [DANISH *only with special chars*](./dictionaries/danish_only_with_special_chars.txt) (**1975** words)
  * [DUTCH *a-z - no special chars*](./dictionaries/dutch_a-z_-_no_special_chars.txt) (**328986** words)
  * [ENGLISH *a-z - no special chars*](./dictionaries/english_a-z_-_no_special_chars.txt) (**241561** words)
+ * [FRENCH **](./dictionaries/french) (**139719** words)
  * [FRENCH *a-z - no special chars*](./dictionaries/french_a-z_-_no_special_chars.txt) (**85915** words)
  * [FRENCH *only with special chars*](./dictionaries/french_only_with_special_chars.txt) (**2115** words)
  * [GERMAN *a-z - no special chars*](./dictionaries/german_a-z_-_no_special_chars.txt) (**278427** words)
@@ -56,6 +57,7 @@
  * [PARAMETERS *mix*](./discovery/parameters_mix.txt) (**20376** words)
  * [PHP *files only*](./discovery/php_files_only.txt) (**43795** words)
  * [PHP *files with path*](./discovery/php_files_with_path.txt) (**13691** words)
+ * [TOP-10K-WEB-DIRECTORIES *from 10M urlteam links*](./discovery/top-10k-web-directories_from_10M_urlteam_links.txt) (**10000** words)
  * [USER *field names*](./discovery/user_field_names.txt) (**228** words)
 
 
@@ -96,4 +98,7 @@
  * [WORDLIST - md5this](http://www.md5this.com/tools/wordlists.html)
  * [WORDLIST - Packet Storm](https://packetstormsecurity.com/Crackers/wordlists/)
 
+## Thanks to
+
+ * [URLTeam](https://www.archiveteam.org/index.php/URLTeam)
 

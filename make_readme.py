@@ -68,4 +68,7 @@ print """
  * [WORDLIST - md5this](http://www.md5this.com/tools/wordlists.html)
  * [WORDLIST - Packet Storm](https://packetstormsecurity.com/Crackers/wordlists/)
 
+## Thanks to
+
+ * [URLTeam](https://www.archiveteam.org/index.php/URLTeam)
 """
