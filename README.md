@@ -43,10 +43,10 @@
 
  * [ASP *files only*](./discovery/asp_files_only.txt) (**20'481** words)
  * [ASP *files with path*](./discovery/asp_files_with_path.txt) (**3'992** words)
- * [BACKUP *files only*](./discovery/backup_files_only.txt) (**640** words)
+ * [BACKUP *files only*](./discovery/backup_files_only.txt) (**1'015** words)
  * [BACKUP *files with path*](./discovery/backup_files_with_path.txt) (**1'286** words)
  * [DIRECTORY *only one*](./discovery/directory_only_one.small.txt) (**1'993** words)
- * [DLL *files*](./discovery/dll_files.txt) (**260** words)
+ * [DLL *files*](./discovery/dll_files.txt) (**208** words)
  * [FUNCTIONS *mix*](./discovery/functions_mix.txt) (**1'555** words)
  * [JSP *files only*](./discovery/jsp_files_only.txt) (**2'158** words)
  * [JSP *files with path*](./discovery/jsp_files_with_path.txt) (**167** words)
