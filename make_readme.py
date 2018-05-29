@@ -22,7 +22,7 @@ for dirname, dirnames, filenames in os.walk('.'):
             lang = filename.split('_')[0].upper()
             details = ' '.join(filename.split('.')[0].split('_')[1:])
             number_of_line = line_count(os.path.join(dirname, filename))
-            lists[dirname[2:]].append(" * [%s *%s*](%s/%s) (**%i** words)" % (lang, details, dirname, filename, number_of_line))
+            lists[dirname[2:]].append(" * [%s *%s*](%s/%s) (**%s** words)" % (lang, details, dirname, filename, "{0:,}".format(number_of_line).replace(',', "'")))
 
 for k, v in lists.iteritems():
     print "## %s\n" % k.title()
