@@ -1,10 +1,6 @@
 # Wordlists
 
 
-## Patterns
-
- * [REGEX *web errors*](./patterns/regex_web_errors.csv) (**28** words)
-
 ## Misc
 
  * [ANDROID *all permissions*](./misc/android_all_permissions.txt) (**324** words)
@@ -14,9 +10,9 @@
  * [JS *event handlers*](./misc/js_event_handlers.txt) (**109** words)
  * [USER-AGENTS.TXT **](./misc/user-agents.txt) (**4'213** words)
 
-## Payloads
+## Patterns
 
- * [SQLI *blind time-based*](./payloads/sqli_blind_time-based.txt) (**283** words)
+ * [REGEX *web errors*](./patterns/regex_web_errors.csv) (**28** words)
 
 ## Dictionaries
 
@@ -27,6 +23,7 @@
  * [DANISH *only with special chars*](./dictionaries/danish_only_with_special_chars.txt) (**1'975** words)
  * [DUTCH *a-z - no special chars*](./dictionaries/dutch_a-z_-_no_special_chars.txt) (**328'986** words)
  * [ENGLISH *a-z - no special chars*](./dictionaries/english_a-z_-_no_special_chars.txt) (**241'561** words)
+ * [ENGLISH *top10k from google*](./dictionaries/english_top10k_from_google.txt) (**10'000** words)
  * [FRENCH *a-z - no special chars*](./dictionaries/french_a-z_-_no_special_chars.txt) (**85'915** words)
  * [FRENCH *only with special chars*](./dictionaries/french_only_with_special_chars.txt) (**2'115** words)
  * [GERMAN *a-z - no special chars*](./dictionaries/german_a-z_-_no_special_chars.txt) (**278'427** words)
@@ -38,6 +35,10 @@
  * [SPANISH *a-z - no special chars*](./dictionaries/spanish_a-z_-_no_special_chars.txt) (**68'673** words)
  * [SWEDISH *a-z - no special chars*](./dictionaries/swedish_a-z_-_no_special_chars.txt) (**79'763** words)
  * [SWEDISH *only with special chars*](./dictionaries/swedish_only_with_special_chars.txt) (**41'663** words)
+
+## Payloads
+
+ * [SQLI *blind time-based*](./payloads/sqli_blind_time-based.txt) (**283** words)
 
 ## Discovery
 
