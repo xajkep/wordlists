@@ -84,6 +84,7 @@
  * [DOMAIN - Fanboy/Adblock](https://github.com/ryanbr/fanboy-adblock)
  * [DICTIONNARY - English Words](https://github.com/dwyl/english-words)
  * [DICTIONNARY - Probable Wordlists](https://github.com/berzerk0/Probable-Wordlists)
+ * [DICTIONNARY - Most common English words from Google sorted by frequency](https://github.com/first20hours/google-10000-english)
 
 ## External Ressources
 
@@ -102,4 +103,5 @@
 ## Thanks to
 
  * [URLTeam](https://www.archiveteam.org/index.php/URLTeam)
+ * [Josh Kaufman](https://github.com/first20hours)
 
