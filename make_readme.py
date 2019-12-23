@@ -67,6 +67,7 @@ print """
  * [WORDLIST - Hashcrack](http://hashcrack.blogspot.ch/p/wordlist-downloads_29.html)
  * [WORDLIST - md5this](http://www.md5this.com/tools/wordlists.html)
  * [WORDLIST - Packet Storm](https://packetstormsecurity.com/Crackers/wordlists/)
+ * [FIRST & LAST NAMES - philipperemy](https://github.com/philipperemy/name-dataset)
 
 ## Thanks to
 
