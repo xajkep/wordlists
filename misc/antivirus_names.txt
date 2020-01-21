@@ -490,7 +490,6 @@ K7 AntiVirus Premium
 Sophos Endpoint
 ShareCrypt
 AVANSI Antivirus
-Look &#39;n&#39; Stop Firewall
 Panda Cloud Antivirus
 adaware antivirus free
 BestCrypt Volume Encryption
