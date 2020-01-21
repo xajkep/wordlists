@@ -4,6 +4,7 @@
 ## Misc
 
  * [ANDROID *all permissions*](./misc/android_all_permissions.txt) (**324** words)
+ * [CSS *all properties*](./misc/css_all_properties.txt) (**179** words)
  * [EMAIL *free providers*](./misc/email_free_providers.txt) (**3'619** words)
  * [EMAIL *top 100 providers*](./misc/email_top_100_providers.txt) (**100** words)
  * [HTML *all elements*](./misc/html_all_elements.txt) (**134** words)
