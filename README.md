@@ -62,7 +62,7 @@
  * [PHP *files with path*](./discovery/php_files_with_path.txt) (**13'691** words)
  * [TOP-10K-WEB-DIRECTORIES *from 10M urlteam links*](./discovery/top-10k-web-directories_from_10M_urlteam_links.txt) (**10'000** words)
  * [USER *field names*](./discovery/user_field_names.txt) (**228** words)
- * [TOP Robots.txt Disallow Paths *from CommonCrawl data*](./discovery/top_robotstxt_disallow_paths.txt) (**15'778** paths)
+ * [TOP Robots.txt Disallow Paths *from 140GB CommonCrawl data*](./discovery/top_robotstxt_disallow_paths.txt) (**15'778** paths)
 
 
 ## Large Password Lists (Torrent)
