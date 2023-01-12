@@ -14,6 +14,7 @@
 
 ## Patterns
 
+ * [REGEX *API Key*](./patterns/regex_apikey.tsv) (**42** words)
  * [REGEX *web errors*](./patterns/regex_web_errors.csv) (**28** words)
 
 ## Dictionaries
