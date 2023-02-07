@@ -10,6 +10,7 @@
  * [EMAIL *top 100 providers*](./misc/email_top_100_providers.txt) (**100** words)
  * [HTML *all elements*](./misc/html_all_elements.txt) (**134** words)
  * [JS *event handlers*](./misc/js_event_handlers.txt) (**109** words)
+ * [Top Level Domains *TLDs*](./misc/tlds.txt) (**1'481** words)
  * [USER-AGENTS.TXT **](./misc/user-agents.txt) (**4'213** words)
 
 ## Patterns
@@ -111,4 +112,5 @@
  * [URLTeam](https://www.archiveteam.org/index.php/URLTeam)
  * [Josh Kaufman](https://github.com/first20hours)
  * [odomojuli](https://github.com/odomojuli)
+ * [lipoja](https://github.com/lipoja) for [TLDs list](https://github.com/lipoja/URLExtract/blob/master/urlextract/data/tlds-alpha-by-domain.txt)
 
