@@ -65,6 +65,7 @@
  * [TOP-10K-WEB-DIRECTORIES *from 10M urlteam links*](./discovery/top-10k-web-directories_from_10M_urlteam_links.txt) (**10'000** words)
  * [USER *field names*](./discovery/user_field_names.txt) (**228** words)
  * [TOP Robots.txt Disallow Paths *from 140GB CommonCrawl data*](./discovery/top_robotstxt_disallow_paths.txt) (**15'778** paths)
+ * [URLhaus URL Paths *sorted by frequency*](./discovery/URLhaus-URL-Paths_sorted_by_frequency.txt) (**15'702** paths)
 
 
 ## Large Password Lists (Torrent)
@@ -113,4 +114,5 @@
  * [Josh Kaufman](https://github.com/first20hours)
  * [odomojuli](https://github.com/odomojuli)
  * [lipoja](https://github.com/lipoja) for [TLDs list](https://github.com/lipoja/URLExtract/blob/master/urlextract/data/tlds-alpha-by-domain.txt)
+ * [URLhaus](https://urlhaus.abuse.ch/)
 
