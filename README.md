@@ -11,7 +11,7 @@
  * [HTML *all elements*](./misc/html_all_elements.txt) (**134** words)
  * [JS *event handlers*](./misc/js_event_handlers.txt) (**109** words)
  * [Top Level Domains *TLDs*](./misc/tlds.txt) (**1'481** words)
- * [USER-AGENTS.TXT **](./misc/user-agents.txt) (**4'213** words)
+ * [USER-AGENTS](./misc/user-agents.txt) (**4'213** words)
 
 ## Patterns
 
