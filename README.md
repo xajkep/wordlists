@@ -8,8 +8,8 @@
  * [CSS *all properties*](./misc/css_all_properties.txt) (**179** words)
  * [EMAIL *free providers*](./misc/email_free_providers.txt) (**3'619** words)
  * [EMAIL *top 100 providers*](./misc/email_top_100_providers.txt) (**100** words)
- * [HTML *all elements*](./misc/html_all_elements.txt) (**134** words)
- * [JS *event handlers*](./misc/js_event_handlers.txt) (**109** words)
+ * [HTML *all elements*](./misc/html_all_elements.txt) (**142** words)
+ * [JS *event handlers*](./misc/js_event_handlers.txt) (**134** words)
  * [Top Level Domains *TLDs*](./misc/tlds.txt) (**1'481** words)
  * [USER-AGENTS](./misc/user-agents.txt) (**4'213** words)
 
