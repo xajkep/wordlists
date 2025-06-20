@@ -34,6 +34,7 @@
  * [IRISH *a-z - no special chars*](./dictionaries/irish_a-z_-_no_special_chars.txt) (**5'224** words)
  * [IRISH *only with special chars*](./dictionaries/irish_only_with_special_chars.txt) (**11'146** words)
  * [ITALIAN *a-z - no special chars*](./dictionaries/italian_a-z_-_no_special_chars.txt) (**102'469** words)
+ * [JAPANESE ROMANJI - no special chars](./dictionaries/japanese-romanji_-_no_special_chars.txt) (**22'336** words)
  * [PORTUGUESE *a-z - no special chars*](./dictionaries/portuguese_a-z_-_no_special_chars.txt) (**305'039** words)
  * [PORTUGUESE *only with special chars*](./dictionaries/portuguese_only_with_special_chars.txt) (**114'360** words)
  * [SPANISH *a-z - no special chars*](./dictionaries/spanish_a-z_-_no_special_chars.txt) (**68'673** words)
