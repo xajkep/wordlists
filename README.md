@@ -53,6 +53,7 @@
  * [BACKUP *files with path*](./discovery/backup_files_with_path.txt) (**1'286** words)
  * [DIRECTORY *only one*](./discovery/directory_only_one.small.txt) (**1'993** words)
  * [DLL *files*](./discovery/dll_files.txt) (**208** words)
+ * [Dot *files*](./discovery/dot_files.txt) (**2'199** paths)
  * [FUNCTIONS *mix*](./discovery/functions_mix.txt) (**1'555** words)
  * [JSP *files only*](./discovery/jsp_files_only.txt) (**2'158** words)
  * [JSP *files with path*](./discovery/jsp_files_with_path.txt) (**167** words)
