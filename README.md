@@ -98,7 +98,7 @@
 
  * [DNS - Cisco Umbrella Top 1 million](http://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip)
  * [DNS - Cisco Umbrella Top TLDs](http://s3-us-west-1.amazonaws.com/umbrella-static/top-1m-TLD.csv.zip)
- * [DNS - Alexa Top 1 million](http://s3.amazonaws.com/alexa-static/top-1m.csv.zip)
+ * [DNS - NetAPI Top 1 million](https://netapi.com/netapi_top1mln.csv)
  * [DOMAIN - FilterLists](https://filterlists.com/)
  * [PASSWORD - OpenWall](http://www.openwall.com/wordlists/)
  * [PASSWORD - CrackStation](https://crackstation.net/buy-crackstation-wordlist-password-cracking-dictionary.htm)
